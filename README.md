@@ -4,7 +4,7 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
 
-![Portfolio Preview](public/images/preview1.png)
+![Portfolio Preview](portfolio/3d-portfolio/image.png)
 
 ## Table of Contents
 
