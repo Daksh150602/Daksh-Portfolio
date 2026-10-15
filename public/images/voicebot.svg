@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <radialGradient id="g" cx="80%" cy="15%" r="80%">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.35"/>
+      <stop offset="0.55" stop-color="#0f1a2b" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0a0e17"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g)"/>
+  <g fill="none" stroke="#5eead4" stroke-opacity="0.08">
+    <path d="M0 200H1280M0 400H1280M0 600H1280M320 0V800M640 0V800M960 0V800"/>
+  </g>
+  <g stroke="#5eead4" stroke-width="14" stroke-linecap="round">
+    <path d="M820 300V340M870 250V390M920 190V450M970 230V410M1020 160V480M1070 240V400M1120 290V350"/>
+  </g>
+  <g font-family="Geist, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="90" y="520" fill="#5eead4" font-size="30" letter-spacing="6">WHILTER AI · 2026</text>
+    <text x="90" y="610" fill="#ffffff" font-size="78" font-weight="600">AI Voice Bot</text>
+    <text x="90" y="680" fill="#ffffff" fill-opacity="0.6" font-size="30">LiveKit · STT · TTS · SIP · WebRTC · LLM</text>
+  </g>
+</svg>

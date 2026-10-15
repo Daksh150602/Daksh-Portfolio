@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <radialGradient id="g" cx="80%" cy="15%" r="80%">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.35"/>
+      <stop offset="0.55" stop-color="#0f1a2b" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0a0e17"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g)"/>
+  <g fill="none" stroke="#5eead4" stroke-opacity="0.08">
+    <path d="M0 200H1280M0 400H1280M0 600H1280M320 0V800M640 0V800M960 0V800"/>
+  </g>
+  <g fill="none" stroke="#5eead4" stroke-width="6">
+    <rect x="800" y="140" width="200" height="240" rx="18"/>
+    <rect x="950" y="200" width="200" height="240" rx="18" stroke-dasharray="14 12"/>
+    <circle cx="900" cy="250" r="55"/><circle cx="1050" cy="310" r="55" stroke-dasharray="10 10"/>
+  </g>
+  <g font-family="Geist, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="90" y="520" fill="#5eead4" font-size="30" letter-spacing="6">COMPUTER VISION · 2025</text>
+    <text x="90" y="610" fill="#ffffff" font-size="78" font-weight="600">Face Swap &amp; Tracking</text>
+    <text x="90" y="680" fill="#ffffff" fill-opacity="0.6" font-size="30">OpenCV · InSwapper · GFP-GAN · DeepSORT</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <radialGradient id="g" cx="80%" cy="15%" r="80%">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.35"/>
+      <stop offset="0.55" stop-color="#0f1a2b" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0a0e17"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g)"/>
+  <g fill="none" stroke="#5eead4" stroke-opacity="0.08">
+    <path d="M0 200H1280M0 400H1280M0 600H1280M320 0V800M640 0V800M960 0V800"/>
+  </g>
+  <g fill="none" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M760 420L840 360L910 390L990 280L1060 310L1150 200" stroke="#ffffff" stroke-opacity="0.5"/>
+    <path d="M1060 310L1150 200" stroke="#5eead4" stroke-dasharray="14 12"/>
+    <path d="M760 440H1170M760 180V440" stroke="#5eead4" stroke-opacity="0.4" stroke-width="3"/>
+  </g>
+  <g font-family="Geist, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="90" y="520" fill="#5eead4" font-size="30" letter-spacing="6">TIME SERIES FORECASTING · 2025</text>
+    <text x="90" y="610" fill="#ffffff" font-size="78" font-weight="600">Automated Cargo Pricing</text>
+    <text x="90" y="680" fill="#ffffff" fill-opacity="0.6" font-size="30">XGBoost · Prophet · Optuna · Feature Engineering</text>
+  </g>
+</svg>
